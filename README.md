@@ -91,11 +91,10 @@ Full results, observations, and coverage analysis: [`docs/03-test-execution-repo
 
 ## Contributors
 
-| Member | Student ID |
-|---|---|
-| Zaina Alasaad | 223410087 |
-| Layan Algublan | 221410621 |
-| Deem Alhaqbani | 223410331 |
-| Nora Alomier | 222410172 |
+| Members
+| Zaina Alasaad  
+| Layan Algublan 
+| Deem Alhaqbani 
+| Nora Alomier 
 
 Per-phase contribution breakdowns are listed at the end of each document in `docs/`.
